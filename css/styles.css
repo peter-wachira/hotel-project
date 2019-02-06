@@ -1,0 +1,13 @@
+nav{
+  width:auto;
+  font-size: 20px;
+  color:white;
+  text-align: center;
+
+}
+nav>ul>li>a{
+
+  text-transform:uppercase;
+  text-align: center;
+
+}
